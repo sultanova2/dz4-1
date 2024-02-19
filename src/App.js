@@ -10,7 +10,7 @@ export default function Gallery() {
      <p> And one of the founders and CEO of Pixar film studio.</p>
     
     <Profile/>
-    <Profile/>git 
+    <Profile/>
     <Profile/>
     <Profile/>
     </section>
